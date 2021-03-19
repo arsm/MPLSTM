@@ -1,5 +1,5 @@
 # Multi-Perspective-LSTM-for-Joint-Visual-Representation-Learning
-## MPLSTM &mdash; Official TensorFlow Implementation
+## MPLSTM &mdash; Official TensorFlow-Keras Implementation
 
 ![Teaser image](MPLSTM.png)
 
