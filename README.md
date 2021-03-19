@@ -18,6 +18,7 @@ Abstract: *We present a novel LSTM cell architecture capable of Multi-Perspectiv
 * You need to use TensorFlow 2.1.5.
 * One or more high-end NVIDIA GPUs, NVIDIA drivers, CUDA 10.0 toolkit and cuDNN 7.5. 
 
+For inquiries, please contact [alireza.sepasmoghaddam@queensu.ca](mailto:alireza.sepasmoghaddam@queensu.ca)<br>
 
 ## Citation
 
