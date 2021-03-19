@@ -1,10 +1,10 @@
 # Multi-Perspective-LSTM-for-Joint-Visual-Representation-Learning
 ## MPLSTM &mdash; Official TensorFlow Implementation
 
-![Teaser image](MPLSTM.pdf)
+![Teaser image](MPLSTM.png)
 
 **Multi-Perspective LSTM for Joint Visual Representation Learning**<br>
-Alireza Sepas-Moghaddam, Fernando Pereira, Paulo Lobato Correia, Ali Etemad$^1$<br>
+Alireza Sepas-Moghaddam, Fernando Pereira, Paulo Lobato Correia, Ali Etemad<br>
 
 Paper: http://arxiv.org/abs/<br>
 
