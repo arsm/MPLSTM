@@ -16,14 +16,21 @@ Abstract: *We present a novel LSTM cell architecture capable of Multi-Perspectiv
 * 64-bit Python 3.6 installation. We recommend Anaconda3 with numpy 1.19.5 or newer.
 * We recommend TensorFlow 1.14, which we used for all experiments in the paper, but newer versions of TensorFlow 1.15 might work.
 * You need to use TensorFlow 2.1.5.
+* You need to use [keras-vggface package](https://github.com/rcmalli/keras-vggface) to extract spatial embeddings. 
 * One or more high-end NVIDIA GPUs, NVIDIA drivers, CUDA 10.0 toolkit and cuDNN 7.5. 
+
+
 
 For inquiries, please contact [alireza.sepasmoghaddam@queensu.ca](mailto:alireza.sepasmoghaddam@queensu.ca)<br>
 
 
 ## Preparing datasets
 
-The [OuluVS2](http://www.ee.oulu.fi/research/imag/OuluVS2/index.html), Light Field Faces in the Wild (LFFW) and Light Field Face Constrained (LFFC) datasets are stored as multi-resolution TFRecords, similar to the . Each dataset consists of multiple `*.tfrecords` files stored under a common directory, e.g., `~/datasets/ffhq/ffhq-r*.tfrecords`. In the following sections, the datasets are referenced using a combination of `--dataset` and `--data-dir` arguments, e.g., `--dataset=ffhq --data-dir=~/datasets`.
+The [OuluVS2](http://www.ee.oulu.fi/research/imag/OuluVS2/index.html), [Light Field Faces in the Wild (LFFW)](http://www.img.lx.it.pt/LFFW/), and [Light Field Faces in the Wild (LFFW)](Light Field Face Constrained (LFFC)) datasets are used to evaluate the performance of MPLSTM. After you have downloaded the dataset successfully, you need to split the data into training, validation, and testing 
+
+
+
+stored as multi-resolution TFRecords, similar to the . Each dataset consists of multiple `*.tfrecords` files stored under a common directory, e.g., `~/datasets/ffhq/ffhq-r*.tfrecords`. In the following sections, the datasets are referenced using a combination of `--dataset` and `--data-dir` arguments, e.g., `--dataset=ffhq --data-dir=~/datasets`.
 
 
 ## Citation
