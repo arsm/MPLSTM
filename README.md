@@ -26,7 +26,7 @@ For inquiries, please contact [alireza.sepasmoghaddam@queensu.ca](mailto:alireza
 
 ## Preparing datasets
 
-The [OuluVS2](http://www.ee.oulu.fi/research/imag/OuluVS2/index.html), [Light Field Faces in the Wild (LFFW)](http://www.img.lx.it.pt/LFFW/), and [Light Field Faces in the Wild (LFFW)]((http://www.img.lx.it.pt/LFFW/)) datasets are used to evaluate the performance of MPLSTM. After you have downloaded the dataset successfully, you need to split the data into training, validation, and testing 
+The [OuluVS2](http://www.ee.oulu.fi/research/imag/OuluVS2/index.html), [Light Field Faces in the Wild (LFFW)](http://www.img.lx.it.pt/LFFW/), and [Light Field Faces in the Wild (LFFW)](http://www.img.lx.it.pt/LFFW/) datasets are used to evaluate the performance of MPLSTM. After you have downloaded the dataset successfully, you need to split the data into training, validation, and testing 
 
 
 
