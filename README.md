@@ -25,7 +25,7 @@ Abstract: *We present a novel LSTM cell architecture capable of Multi-Perspectiv
 @inproceedings{Sepas2021MPLSTM,
   title     = {Multi-Perspective {LSTM} for Joint Visual Representation Learning},
   author    = {Alireza Sepas-Moghaddam and Fernando Pereira and Paulo Lobato Correia and Ali Etemad},
-  booktitle = {IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR2021)},
+  booktitle = {IEEE/CVF Conference on Computer Vision and Pattern Recognition},
   year      = {2021}
 }
 ```
