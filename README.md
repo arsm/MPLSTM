@@ -13,10 +13,10 @@ Abstract: *We present a novel LSTM cell architecture capable of Multi-Perspectiv
 
 * Both Linux and Windows are supported. Linux is recommended for performance and compatibility reasons.
 * 64-bit Python 3.6 installation. We recommend Anaconda3 with numpy 1.19.5 or newer.
-* We recommend TensorFlow 1.14, which we used for all experiments in the paper, but newer versions of TensorFlow 1.15 might work.
-* You need to use TensorFlow 2.1.5.
+* We recommend TensorFlow 1.14, which we used for all experiments in the paper, but newer versions of TensorFlow might work as well.
+* You need to use Keras 2.1.5.
 * You need to use [Keras-VGGFace package](https://github.com/rcmalli/keras-vggface) to extract RESNET50 spatial embeddings. 
-* One or more high-end NVIDIA GPUs, NVIDIA drivers, CUDA 10.0 toolkit and cuDNN 7.5. 
+* One or more high-end NVIDIA GPUs, NVIDIA drivers, CUDA 10.0 toolkit. 
 
 
 
