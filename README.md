@@ -39,7 +39,7 @@ The [OuluVS2](http://www.ee.oulu.fi/research/imag/OuluVS2/index.html), [Light Fi
 | &ensp;&ensp; &ensp;&ensp; &boxvr;&nbsp; .| .
 | &ensp;&ensp; &ensp;&ensp; &boxvr;&nbsp; .| .
 | &ensp;&ensp; &ensp;&ensp; &boxvr;&nbsp; .| .
-| &ensp;&ensp; &ensp;&ensp; &boxvr;&nbsp; 20 Utterance 20
+| &ensp;&ensp; &ensp;&ensp; &boxvr;&nbsp; 20| Utterance 20
 
 
 
