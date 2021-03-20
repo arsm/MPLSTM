@@ -20,8 +20,6 @@ Abstract: *We present a novel LSTM cell architecture capable of Multi-Perspectiv
 
 
 
-For inquiries, please contact [alireza.sepasmoghaddam@queensu.ca](mailto:alireza.sepasmoghaddam@queensu.ca)<br>
-
 
 ## Preparing datasets
 
@@ -50,6 +48,10 @@ stored as multi-resolution TFRecords, similar to the . Each dataset consists of 
 | &ensp;&ensp; &boxur;&nbsp;&#x22ef;  | Other training configurations used in the paper
 
 
+
+## Inquiries
+
+For inquiries, please contact [alireza.sepasmoghaddam@queensu.ca](mailto:alireza.sepasmoghaddam@queensu.ca)<br>
 
 ## Citation
 
