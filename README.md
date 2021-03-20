@@ -35,9 +35,9 @@ stored as multi-resolution TFRecords, similar to the . Each dataset consists of 
 | Test | Test folder
 | Train | Train folder
 | Validation | Validation folder
-| &boxvr;&nbsp; &boxvr;&nbsp; CAM1 | Camera 1 Folder
-| &boxvr;&nbsp; &boxvr;&nbsp; CAM2 | Camera 2 Folder
-| &boxvr;&nbsp; &boxvr;&nbsp; CAM1 | Camera 3 Folder
+| &ensp;&ensp; &boxvr;&nbsp; CAM1 | Camera 1 Folder
+| &ensp;&ensp; &boxvr;&nbsp; CAM2 | Camera 2 Folder
+| &ensp;&ensp; &boxvr;&nbsp; CAM3 | Camera 3 Folder
 | &boxv;&nbsp; &boxvr;&nbsp;  [curated-images](https://drive.google.com/open?id=1ydWb8xCHzDKMTW9kQ7sL-B1R0zATHVHp) | Hand-picked images showcasing our results
 | &boxv;&nbsp; &boxur;&nbsp;  [100k-generated-images](https://drive.google.com/open?id=1BA2OZ1GshdfFZGYZPob5QWOGBuJCdu5q) | Random images with and without truncation
 | &boxvr;&nbsp; [videos](https://drive.google.com/open?id=1yXDV96SFXoUiZKU7AyE6DyKgDpIk4wUZ) | Individual clips of the video as high-quality MP4
