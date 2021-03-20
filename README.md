@@ -21,7 +21,7 @@ Abstract: *We present a novel LSTM cell architecture capable of Multi-Perspectiv
 
 
 
-## Preparing datasets
+## Preparing Datasets
 
 The [OuluVS2](http://www.ee.oulu.fi/research/imag/OuluVS2/index.html), [Light Field Faces in the Wild (LFFW)](http://www.img.lx.it.pt/LFFW/), and [Face Constrained (LFFC)](http://www.img.lx.it.pt/LFFW/) datasets are used to evaluate the performance of MPLSTM. After you have downloaded the dataset successfully, you need to split the data into training, validation, and testing as disscussed in [OuluVS2 paper](https://ieeexplore.ieee.org/document/7163155) and [LFFW and LFFC paper](https://ieeexplore.ieee.org/document/9343707). The organization of the files should be as follow:
 
@@ -56,7 +56,7 @@ The [OuluVS2](http://www.ee.oulu.fi/research/imag/OuluVS2/index.html), [Light Fi
 | &ensp;&ensp; &ensp;&ensp; &boxvr;&nbsp; 53| Subject 53 folder containing horizontal/vertical videos
 
 
-## Training network
+## Training and Testing
 
 ## Inquiries
 
