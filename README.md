@@ -58,6 +58,8 @@ The [OuluVS2](http://www.ee.oulu.fi/research/imag/OuluVS2/index.html), [Light Fi
 
 ## Training and Testing
 
+Demo codes for training and testing using 3-perspective combination are respectively available in Training_3Views.py and Testing_3Views.py. The source code of MPLSTM when adopting 2 and 3 perspectives are available in Library\MPLSTM_2inputs and Library\MPLSTM_3inputs, respectively.
+
 ## Inquiries
 
 For inquiries, please contact [alireza.sepasmoghaddam@queensu.ca](mailto:alireza.sepasmoghaddam@queensu.ca)<br>
