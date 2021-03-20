@@ -34,26 +34,26 @@ The [OuluVS2](http://www.ee.oulu.fi/research/imag/OuluVS2/index.html), [Light Fi
 | &ensp;&ensp; &boxvr;&nbsp; CAM1 | Camera 1 Folder
 | &ensp;&ensp; &boxvr;&nbsp; CAM2 | Camera 2 Folder
 | &ensp;&ensp; &boxvr;&nbsp; CAM3 | Camera 3 Folder
-| &ensp;&ensp; &ensp;&ensp; &boxvr;&nbsp; 01| Utterance 1
-| &ensp;&ensp; &ensp;&ensp; &boxvr;&nbsp; 02| Utterance 2
+| &ensp;&ensp; &ensp;&ensp; &boxvr;&nbsp; 01| Utterance 1 Folder Containing Speach Videos
+| &ensp;&ensp; &ensp;&ensp; &boxvr;&nbsp; 02| Utterance 2 Folder Containing Speach Videos
 | &ensp;&ensp; &ensp;&ensp; &boxvr;&nbsp; .| .
 | &ensp;&ensp; &ensp;&ensp; &boxvr;&nbsp; .| .
 | &ensp;&ensp; &ensp;&ensp; &boxvr;&nbsp; .| .
-| &ensp;&ensp; &ensp;&ensp; &boxvr;&nbsp; 20| Utterance 20
+| &ensp;&ensp; &ensp;&ensp; &boxvr;&nbsp; 20| Utterance 20 Folder Containing Speach Videos
 
 | LFFW and LFFC Datasets | &nbsp;
 | :--- | :----------
 | &boxvr;&nbsp; Test | Test folder
 | &boxvr;&nbsp; Train | Train folder
 | &boxvr;&nbsp; Validation | Validation folder
-| &ensp;&ensp; &boxvr;&nbsp; Hor | Horizontal Viewpoint Sequences
-| &ensp;&ensp; &boxvr;&nbsp; Ver | Vertical Viewpoint Sequences
-| &ensp;&ensp; &ensp;&ensp; &boxvr;&nbsp; 01| Subject 1
-| &ensp;&ensp; &ensp;&ensp; &boxvr;&nbsp; 02| Subject 2
+| &ensp;&ensp; &boxvr;&nbsp; Hor | Horizontal Viewpoint Sequences Floder
+| &ensp;&ensp; &boxvr;&nbsp; Ver | Vertical Viewpoint Sequences Folder
+| &ensp;&ensp; &ensp;&ensp; &boxvr;&nbsp; 01| Subject 1 Folder Containing Horizontal/Vertical Sequences 
+| &ensp;&ensp; &ensp;&ensp; &boxvr;&nbsp; 02| Subject 2 Folder Containing Horizontal/Vertical Sequences
 | &ensp;&ensp; &ensp;&ensp; &boxvr;&nbsp; .| .
 | &ensp;&ensp; &ensp;&ensp; &boxvr;&nbsp; .| .
 | &ensp;&ensp; &ensp;&ensp; &boxvr;&nbsp; .| .
-| &ensp;&ensp; &ensp;&ensp; &boxvr;&nbsp; 53| Subject 53
+| &ensp;&ensp; &ensp;&ensp; &boxvr;&nbsp; 53| Subject 53 Folder Containing Horizontal/Vertical Sequences
 
 
 
