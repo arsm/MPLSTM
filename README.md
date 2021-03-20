@@ -34,7 +34,13 @@ The [OuluVS2](http://www.ee.oulu.fi/research/imag/OuluVS2/index.html), [Light Fi
 | &ensp;&ensp; &boxvr;&nbsp; CAM1 | Camera 1 Folder
 | &ensp;&ensp; &boxvr;&nbsp; CAM2 | Camera 2 Folder
 | &ensp;&ensp; &boxvr;&nbsp; CAM3 | Camera 3 Folder
-| &ensp;&ensp; &ensp;&ensp; &boxvr;&nbsp; CAM3 | Camera 3 Folder
+| &ensp;&ensp; &ensp;&ensp; &boxvr;&nbsp; 01| Utterance 1
+| &ensp;&ensp; &ensp;&ensp; &boxvr;&nbsp; 02| Utterance 2
+| &ensp;&ensp; &ensp;&ensp; &boxvr;&nbsp; .| .
+| &ensp;&ensp; &ensp;&ensp; &boxvr;&nbsp; .| .
+| &ensp;&ensp; &ensp;&ensp; &boxvr;&nbsp; .| .
+| &ensp;&ensp; &ensp;&ensp; &boxvr;&nbsp; 20 Utterance 20
+
 
 
 
