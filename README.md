@@ -16,7 +16,7 @@ Abstract: *We present a novel LSTM cell architecture capable of Multi-Perspectiv
 * We recommend TensorFlow 1.14, which we used for all experiments in the paper, but newer versions of TensorFlow might work as well.
 * You need to use Keras 2.1.5.
 * You need to use [Keras-VGGFace package](https://github.com/rcmalli/keras-vggface) to extract RESNET50 spatial embeddings. 
-* One or more high-end NVIDIA GPUs, NVIDIA drivers, CUDA 10.0 toolkit. 
+* One or more high-end NVIDIA GPUs, NVIDIA drivers, and CUDA 10.0 toolkit. 
 
 
 
