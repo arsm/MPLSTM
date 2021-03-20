@@ -23,11 +23,7 @@ Abstract: *We present a novel LSTM cell architecture capable of Multi-Perspectiv
 
 ## Preparing datasets
 
-The [OuluVS2](http://www.ee.oulu.fi/research/imag/OuluVS2/index.html), [Light Field Faces in the Wild (LFFW)](http://www.img.lx.it.pt/LFFW/), and [Light Field Faces in the Wild (LFFW)](http://www.img.lx.it.pt/LFFW/) datasets are used to evaluate the performance of MPLSTM. After you have downloaded the dataset successfully, you need to split the data into training, validation, and testing 
-
-
-
-stored as multi-resolution TFRecords, similar to the . Each dataset consists of multiple `*.tfrecords` files stored under a common directory, e.g., `~/datasets/ffhq/ffhq-r*.tfrecords`. In the following sections, the datasets are referenced using a combination of `--dataset` and `--data-dir` arguments, e.g., `--dataset=ffhq --data-dir=~/datasets`.
+The [OuluVS2](http://www.ee.oulu.fi/research/imag/OuluVS2/index.html), [Light Field Faces in the Wild (LFFW)](http://www.img.lx.it.pt/LFFW/), and [Face Constrained (LFFC)](http://www.img.lx.it.pt/LFFW/) datasets are used to evaluate the performance of MPLSTM. After you have downloaded the dataset successfully, you need to split the data into training, validation, and testing as disscussed in [OuluVS2 paper](https://ieeexplore.ieee.org/document/7163155) and [LFFW and LFFC paper](https://ieeexplore.ieee.org/document/9343707). The organization of the files should be as follow:
 
 
 | OuluVS2 Dataset | &nbsp;
