@@ -48,12 +48,12 @@ The [OuluVS2](http://www.ee.oulu.fi/research/imag/OuluVS2/index.html), [Light Fi
 | &boxvr;&nbsp; Validation | Validation folder
 | &ensp;&ensp; &boxvr;&nbsp; Hor | Horizontal Viewpoint Sequences Floder
 | &ensp;&ensp; &boxvr;&nbsp; Ver | Vertical Viewpoint Sequences Folder
-| &ensp;&ensp; &ensp;&ensp; &boxvr;&nbsp; 01| Subject 1 Folder Containing Horizontal/Vertical Sequences 
-| &ensp;&ensp; &ensp;&ensp; &boxvr;&nbsp; 02| Subject 2 Folder Containing Horizontal/Vertical Sequences
+| &ensp;&ensp; &ensp;&ensp; &boxvr;&nbsp; 01| Subject 1 Folder Containing Horizontal/Vertical Videos 
+| &ensp;&ensp; &ensp;&ensp; &boxvr;&nbsp; 02| Subject 2 Folder Containing Horizontal/Vertical Videos
 | &ensp;&ensp; &ensp;&ensp; &boxvr;&nbsp; .| .
 | &ensp;&ensp; &ensp;&ensp; &boxvr;&nbsp; .| .
 | &ensp;&ensp; &ensp;&ensp; &boxvr;&nbsp; .| .
-| &ensp;&ensp; &ensp;&ensp; &boxvr;&nbsp; 53| Subject 53 Folder Containing Horizontal/Vertical Sequences
+| &ensp;&ensp; &ensp;&ensp; &boxvr;&nbsp; 53| Subject 53 Folder Containing Horizontal/Vertical Videos
 
 
 
