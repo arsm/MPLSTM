@@ -32,22 +32,13 @@ stored as multi-resolution TFRecords, similar to the . Each dataset consists of 
 
 | OuluVS2 Dataset | &nbsp;
 | :--- | :----------
-| Test | Test folder
-| Train | Train folder
-| Validation | Validation folder
+| &boxvr;&nbsp; Test | Test folder
+| &boxvr;&nbsp; Train | Train folder
+| &boxvr;&nbsp; Validation | Validation folder
 | &ensp;&ensp; &boxvr;&nbsp; CAM1 | Camera 1 Folder
 | &ensp;&ensp; &boxvr;&nbsp; CAM2 | Camera 2 Folder
 | &ensp;&ensp; &boxvr;&nbsp; CAM3 | Camera 3 Folder
-| &boxv;&nbsp; &boxvr;&nbsp;  [curated-images](https://drive.google.com/open?id=1ydWb8xCHzDKMTW9kQ7sL-B1R0zATHVHp) | Hand-picked images showcasing our results
-| &boxv;&nbsp; &boxur;&nbsp;  [100k-generated-images](https://drive.google.com/open?id=1BA2OZ1GshdfFZGYZPob5QWOGBuJCdu5q) | Random images with and without truncation
-| &boxvr;&nbsp; [videos](https://drive.google.com/open?id=1yXDV96SFXoUiZKU7AyE6DyKgDpIk4wUZ) | Individual clips of the video as high-quality MP4
-| &boxur;&nbsp; [networks](https://nvlabs-fi-cdn.nvidia.com/stylegan2/networks/) | Pre-trained networks
-| &ensp;&ensp; &boxvr;&nbsp;  stylegan2-ffhq-config-f.pkl | StyleGAN2 for <span style="font-variant:small-caps">FFHQ</span> dataset at 1024&times;1024
-| &ensp;&ensp; &boxvr;&nbsp;  stylegan2-car-config-f.pkl | StyleGAN2 for <span style="font-variant:small-caps">LSUN Car</span> dataset at 512&times;384
-| &ensp;&ensp; &boxvr;&nbsp;  stylegan2-cat-config-f.pkl | StyleGAN2 for <span style="font-variant:small-caps">LSUN Cat</span> dataset at 256&times;256
-| &ensp;&ensp; &boxvr;&nbsp;  stylegan2-church-config-f.pkl | StyleGAN2 for <span style="font-variant:small-caps">LSUN Church</span> dataset at 256&times;256
-| &ensp;&ensp; &boxvr;&nbsp;  stylegan2-horse-config-f.pkl | StyleGAN2 for <span style="font-variant:small-caps">LSUN Horse</span> dataset at 256&times;256
-| &ensp;&ensp; &boxur;&nbsp;&#x22ef;  | Other training configurations used in the paper
+| &ensp;&ensp; &ensp;&ensp; &boxvr;&nbsp; CAM3 | Camera 3 Folder
 
 
 
