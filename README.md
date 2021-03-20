@@ -1,5 +1,4 @@
-# Multi-Perspective-LSTM-for-Joint-Visual-Representation-Learning
-## MPLSTM &mdash; Official TensorFlow-Keras Implementation
+# Multi-Perspective Long Short Term Memory
 
 ![Teaser image](MPLSTM.png)
 
