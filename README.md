@@ -41,6 +41,20 @@ The [OuluVS2](http://www.ee.oulu.fi/research/imag/OuluVS2/index.html), [Light Fi
 | &ensp;&ensp; &ensp;&ensp; &boxvr;&nbsp; .| .
 | &ensp;&ensp; &ensp;&ensp; &boxvr;&nbsp; 20| Utterance 20
 
+| LFFW and LFFC Datasets | &nbsp;
+| :--- | :----------
+| &boxvr;&nbsp; Test | Test folder
+| &boxvr;&nbsp; Train | Train folder
+| &boxvr;&nbsp; Validation | Validation folder
+| &ensp;&ensp; &boxvr;&nbsp; Hor | Horizontal Viewpoint Sequences
+| &ensp;&ensp; &boxvr;&nbsp; Ver | Vertical Viewpoint Sequences
+| &ensp;&ensp; &ensp;&ensp; &boxvr;&nbsp; 01| Subject 1
+| &ensp;&ensp; &ensp;&ensp; &boxvr;&nbsp; 02| Subject 2
+| &ensp;&ensp; &ensp;&ensp; &boxvr;&nbsp; .| .
+| &ensp;&ensp; &ensp;&ensp; &boxvr;&nbsp; .| .
+| &ensp;&ensp; &ensp;&ensp; &boxvr;&nbsp; .| .
+| &ensp;&ensp; &ensp;&ensp; &boxvr;&nbsp; 53| Subject 53
+
 
 
 
