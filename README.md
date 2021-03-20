@@ -31,32 +31,32 @@ The [OuluVS2](http://www.ee.oulu.fi/research/imag/OuluVS2/index.html), [Light Fi
 | &boxvr;&nbsp; Test | Test folder
 | &boxvr;&nbsp; Train | Train folder
 | &boxvr;&nbsp; Validation | Validation folder
-| &ensp;&ensp; &boxvr;&nbsp; CAM1 | Camera 1 Folder
-| &ensp;&ensp; &boxvr;&nbsp; CAM2 | Camera 2 Folder
-| &ensp;&ensp; &boxvr;&nbsp; CAM3 | Camera 3 Folder
-| &ensp;&ensp; &ensp;&ensp; &boxvr;&nbsp; 01| Utterance 1 Folder Containing Speach Videos
-| &ensp;&ensp; &ensp;&ensp; &boxvr;&nbsp; 02| Utterance 2 Folder Containing Speach Videos
+| &ensp;&ensp; &boxvr;&nbsp; CAM1 | Camera 1 folder
+| &ensp;&ensp; &boxvr;&nbsp; CAM2 | Camera 2 folder
+| &ensp;&ensp; &boxvr;&nbsp; CAM3 | Camera 3 folder
+| &ensp;&ensp; &ensp;&ensp; &boxvr;&nbsp; 01| Utterance 1 folder containing speach videos
+| &ensp;&ensp; &ensp;&ensp; &boxvr;&nbsp; 02| Utterance 2 folder containing Speach videos
 | &ensp;&ensp; &ensp;&ensp; &boxvr;&nbsp; .| .
 | &ensp;&ensp; &ensp;&ensp; &boxvr;&nbsp; .| .
 | &ensp;&ensp; &ensp;&ensp; &boxvr;&nbsp; .| .
-| &ensp;&ensp; &ensp;&ensp; &boxvr;&nbsp; 20| Utterance 20 Folder Containing Speach Videos
+| &ensp;&ensp; &ensp;&ensp; &boxvr;&nbsp; 20| Utterance 20 folder containing speach videos
 
 | LFFW and LFFC Datasets | &nbsp;
 | :--- | :----------
 | &boxvr;&nbsp; Test | Test folder
 | &boxvr;&nbsp; Train | Train folder
 | &boxvr;&nbsp; Validation | Validation folder
-| &ensp;&ensp; &boxvr;&nbsp; Hor | Horizontal Viewpoint Sequences Floder
-| &ensp;&ensp; &boxvr;&nbsp; Ver | Vertical Viewpoint Sequences Folder
-| &ensp;&ensp; &ensp;&ensp; &boxvr;&nbsp; 01| Subject 1 Folder Containing Horizontal/Vertical Videos 
-| &ensp;&ensp; &ensp;&ensp; &boxvr;&nbsp; 02| Subject 2 Folder Containing Horizontal/Vertical Videos
+| &ensp;&ensp; &boxvr;&nbsp; Hor | Horizontal viewpoint sequences floder
+| &ensp;&ensp; &boxvr;&nbsp; Ver | Vertical viewpoint sequences folder
+| &ensp;&ensp; &ensp;&ensp; &boxvr;&nbsp; 01| Subject 1 folder containing horizontal/vertical videos 
+| &ensp;&ensp; &ensp;&ensp; &boxvr;&nbsp; 02| Subject 2 folder containing horizontal/vertical videos
 | &ensp;&ensp; &ensp;&ensp; &boxvr;&nbsp; .| .
 | &ensp;&ensp; &ensp;&ensp; &boxvr;&nbsp; .| .
 | &ensp;&ensp; &ensp;&ensp; &boxvr;&nbsp; .| .
-| &ensp;&ensp; &ensp;&ensp; &boxvr;&nbsp; 53| Subject 53 Folder Containing Horizontal/Vertical Videos
+| &ensp;&ensp; &ensp;&ensp; &boxvr;&nbsp; 53| Subject 53 folder containing horizontal/vertical videos
 
 
-
+## Training network
 
 ## Inquiries
 
